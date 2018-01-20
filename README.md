@@ -1,2 +1,2 @@
-# Wild Wild West
+# Beta
 Anything goes there
