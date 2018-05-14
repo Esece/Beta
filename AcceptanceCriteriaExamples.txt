@@ -1,1 +1,11 @@
-Yrufy tlwt gdfs lwd w bizewyq gdfs sixf (Jhzry/Adfs/TfwhXyxq), jlfy gdfs rd iy hwdlkiwsh ewaf, tlfy gdfs bwy dff tlf deit vgitf sfvgfdt gehwtfd ois efyhrya (yit kiicfh) dlrezfytd
+Add a new button "Add" to display a modal. 
+Add a new navigation item "New" [in section|above item|below item] 
+Pull the [text|label|message] "msg" from resources 
+Create a new resource for [text|label|message] "msg" 
+Add a new resource for [text|label|message] "msg" in Spanish. 
+Display the [message|button|link] "msg" only for users with [role] role. 
+Create an AJAX form to submit to [URL]. 
+Modify the [...] in the existing [...] form by... 
+Add the following elements to the existing [...] form: 
+Create a new table called "" with the following schema: 
+Add a new DbSet for the new table (...). 
