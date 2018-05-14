@@ -1,11 +1,11 @@
-Add a new button "Add" to display a modal. 
-Add a new navigation item "New" [in section|above item|below item] 
-Pull the [text|label|message] "msg" from resources 
-Create a new resource for [text|label|message] "msg" 
-Add a new resource for [text|label|message] "msg" in Spanish. 
-Display the [message|button|link] "msg" only for users with [role] role. 
-Create an AJAX form to submit to [URL]. 
-Modify the [...] in the existing [...] form by... 
-Add the following elements to the existing [...] form: 
-Create a new table called "" with the following schema: 
-Add a new DbSet for the new table (...). 
+7ggJ#J4eVJi(hhF4J~7gg~JhFJg9aNp#tJ#JjFg#pLJ
+7ggJ#J4eVJ4#=9z#h9F4J9hejJ~@eV~Jx94JaeIh9F48#iF=eJ9hej8iepFVJ9hejKJ
+`(ppJh1eJxhe:h8p#iep8jeaa#zeKJ~jaz~JnyFjJyeaF(yIeaJ
+Cye#heJ#J4eVJyeaF(yIeJnFyJxhe:h8p#iep8jeaa#zeKJ~jaz~J
+7ggJ#J4eVJyeaF(yIeJnFyJxhe:h8p#iep8jeaa#zeKJ~jaz~J94JbN#49a1LJ
+m9aNp#tJh1eJxjeaa#ze8i(hhF48p94*KJ~jaz~JF4ptJnFyJ(aeyaJV9h1JxyFpeKJyFpeLJ
+Cye#heJ#4J7$7}JnFyjJhFJa(ij9hJhFJxo]RKLJ
+dFg9ntJh1eJxLLLKJ94Jh1eJe:9ah94zJxLLLKJnFyjJitLLLJ
+7ggJh1eJnFppFV94zJepeje4haJhFJh1eJe:9ah94zJxLLLKJnFyj?J
+Cye#heJ#J4eVJh#ipeJI#ppegJ~~JV9h1Jh1eJnFppFV94zJaI1ej#?J
+7ggJ#J4eVJmibehJnFyJh1eJ4eVJh#ipeJ\LLL0LJ
